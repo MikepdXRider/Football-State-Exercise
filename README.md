@@ -9,3 +9,19 @@
 8) Consider your data model. What objects will you be using? What are the key/value pairs? What arrays do you need? What needs to live in local storage?
 9) Consider what features _depend_ on what other features. Use this dependency logic to figure out what order to complete tasks.
 
+
+## HTML
+- 2 x div to display each teams score
+- 1 x div to show announcer*
+- 2 x button(1 per team) to increment teams scores
+
+## State
+- Two counters set to 0.
+
+## Events
+- Clicks button.
+    - Increment appropriate team score/counter.
+    - Display new score to appropriate div.
+
+
+
