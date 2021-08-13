@@ -111,3 +111,36 @@ footer {
     }
 
   }
+
+  .score-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .scores{
+    font-size: 2rem;
+  }
+
+  .button-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .button{
+    
+  }
+
+  .button:hover{
+      background-color: lightgreen;
+  }
+
+  .hawks-button{
+      
+  }
+
+  .ospreys-button{
+
+  }
+
